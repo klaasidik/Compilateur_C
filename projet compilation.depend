@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1611736750 source:c:\users\dajou\desktop\nouveau dossier (7)\projet compilation\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilePRIM.h"
+	"Fchaine.h"
+
+1611699231 source:c:\users\dajou\desktop\nouveau dossier (7)\projet compilation\fpile.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pilePRIM.h"
+
+1611699221 c:\users\dajou\desktop\nouveau dossier (7)\projet compilation\pileprim.h
+	"pileSDD.h"
+
+1611660733 c:\users\dajou\desktop\nouveau dossier (7)\projet compilation\pilesdd.h
+	"Fpile.h"
+
+1611690079 c:\users\dajou\desktop\nouveau dossier (7)\projet compilation\fpile.h
+
+1611686812 c:\users\dajou\desktop\nouveau dossier (7)\projet compilation\fchaine.h
+
